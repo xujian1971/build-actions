@@ -7,6 +7,9 @@
 # add luci-app-daed
 git clone https://github.com/QiuSimons/luci-app-daed package/dae
 
+# add luci-app-homeproxy
+git clone https://github.com/lxiaya/openwrt-homeproxy package/homeproxy
+
 # 后台IP设置
 export Ipv4_ipaddr="10.0.0.1"            # 修改openwrt后台地址(填0为关闭)
 export Netmask_netm="255.255.255.0"         # IPv4 子网掩码（默认：255.255.255.0）(填0为不作修改)
