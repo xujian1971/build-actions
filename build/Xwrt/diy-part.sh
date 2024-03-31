@@ -5,7 +5,7 @@
 # 不要一下就拉取别人一个插件包N多插件的，多了没用，增加编译错误，自己需要的才好
 
 # add luci-app-daed
-# git clone https://github.com/QiuSimons/luci-app-daed package/dae
+git clone https://github.com/QiuSimons/luci-app-daed package/dae
 
 # add luci-app-homeproxy
 git clone https://github.com/lxiaya/openwrt-homeproxy package/homeproxy
