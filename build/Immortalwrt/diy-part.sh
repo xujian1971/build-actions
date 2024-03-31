@@ -5,7 +5,7 @@
 # 不要一下就拉取别人一个插件包N多插件的，多了没用，增加编译错误，自己需要的才好
 
 # add luci-app-daed
-git clone https://github.com/sbwml/luci-app-daed-next
+git clone https://github.com/QiuSimons/luci-app-daed package/dae
 
 # 后台IP设置
 export Ipv4_ipaddr="10.0.0.1"            # 修改openwrt后台地址(填0为关闭)
