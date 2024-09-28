@@ -7,8 +7,8 @@
 # add luci-app-daed-next
 # git clone https://github.com/sbwml/luci-app-daed-next package/daed-next
 
-# add openwrt-neko
-git clone https://github.com/nosignals/openwrt-neko.git package/openwrt-neko
+# add OpenWrt-mihomo
+git clone https://github.com/morytyann/OpenWrt-mihomo.git package/OpenWrt-mihomo
 
 # 后台IP设置
 export Ipv4_ipaddr="10.0.0.1"            # 修改openwrt后台地址(填0为关闭)
